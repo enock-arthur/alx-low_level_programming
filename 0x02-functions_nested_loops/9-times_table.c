@@ -9,7 +9,7 @@ void times_table(void){
 		k = j*i;
 		if(j==0){
 
-			_purchar(k +'0');
+			_putchar(k +'0');
 		
 		}
 
